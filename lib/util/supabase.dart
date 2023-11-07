@@ -1,0 +1,3 @@
+const supabaseUrl = "https://scdhohubcoxxvfhuzhds.supabase.co";
+const supabaseAnonKey =
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNjZGhvaHViY294eHZmaHV6aGRzIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTgzNDI1NjksImV4cCI6MjAxMzkxODU2OX0.vyFSj6QY4j_fNhDwkp3SnDtAD3uBdobiAcUl2bfy_bw";
